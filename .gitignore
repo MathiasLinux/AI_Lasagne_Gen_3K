@@ -1,0 +1,17 @@
+# The file used to store the infos of the user (encrypted)
+/infos.json
+
+# The folder of the module
+/prestashop-0.1.5a/
+
+# The folder containing the images generated
+/gen_imgs/*.jpg
+
+# The folder containing the dist of the module
+/dist/
+
+# The folder containing the build of the module
+/build/
+
+# The folder containing the config of the PyCharm project
+/.idea/

@@ -18,6 +18,10 @@
    "value": false
   },
   {
+   "optionDest": "content_directory",
+    "value": "."
+  },
+  {
    "optionDest": "clean_build",
    "value": false
   },
